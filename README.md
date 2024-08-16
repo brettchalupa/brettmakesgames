@@ -4,7 +4,7 @@ https://games.brettchalupa.com
 
 Game development blog and project index.
 
-Built with [Zola](https://getzola.org).
+Built with [Zola](https://getzola.org) 0.19.
 
 ## Developing
 

@@ -18,4 +18,8 @@ author = "Brett Chalupa"
 highlight_code = true
 
 [extra]
-# Put all your custom variables here
+
+header_nav = [
+  { url = "/", name_en = "Home" },
+  { url = "/devlog", name_en = "Devlog" },
+]

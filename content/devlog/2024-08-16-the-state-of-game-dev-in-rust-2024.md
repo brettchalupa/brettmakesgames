@@ -2,6 +2,7 @@
 title = "The State of Game Dev in Rust 2024: A Newcomer's Perspective"
 description = "An overview of about a month of digging into making games with Rust."
 date = "2024-08-16"
+tags = ["Rust"]
 +++
 
 After taking about a yearlong break from game dev due to personal and professional parts of my life taking priority, I got the itch to dig back in again. Making games is where I started with programming, although my career has taken me down other avenues. But I also come back to it. I was checking out Raylib, drawn toward its simple API and stability. As I was writing C, it got me thinking, I'd really prefer using Rust! I've dabbled in Rust over the years—read The Book, made a simple CLI to learn, peeked around the landscape—but never committed to it in any serious way. I saw there are Raylib bindings for Rust, which then led me down a rabbithole for the last month to explore the state of game development in Rust. Here's what I see and where I think we can head from here!

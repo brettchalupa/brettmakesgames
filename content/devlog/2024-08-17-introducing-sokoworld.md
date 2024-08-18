@@ -11,6 +11,8 @@ A week ago I started working on a puzzle game called **SokoWorld**. It's an impl
 
 My goal with the project is to ship a finished, polished puzzle game that's free and open source.
 
+<iframe frameborder="0" src="https://itch.io/embed/2893281" width="552" height="167"><a href="https://brettchalupa.itch.io/sokoworld">SokoWorld by Brett Chalupa</a></iframe>
+
 [Go play the game in your browser!](https://brettchalupa.itch.io/sokoworld)
 
 ## Inspiration

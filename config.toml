@@ -9,7 +9,7 @@ theme = "anemone"
 title = "Brett Makes Games"
 description = "Game development blog"
 default_language = "en"
-generate_feeds= true
+generate_feeds = true
 author = "Brett Chalupa"
 
 [markdown]

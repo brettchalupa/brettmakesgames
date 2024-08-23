@@ -2,6 +2,7 @@
   padding: 0.625rem 0 0.5rem 0;
   text-align: center;
   color: var(--text);
+  font-weight: bold;
 }
 
 #nav-bar {

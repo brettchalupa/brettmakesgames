@@ -20,6 +20,5 @@ highlight_code = true
 [extra]
 
 header_nav = [
-  { url = "/", name_en = "Home" },
   { url = "/devlog", name_en = "Devlog" },
 ]

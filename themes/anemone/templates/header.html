@@ -4,6 +4,13 @@
 {% elif section %}
   {% set current_lang = section.lang %}
 {% endif %}
+
+<div id="site-name">
+  <a href="/">
+    Brett Makes Games
+  </a>
+</div>
+
 {% if config.extra.header_nav %}
   <nav id="nav-bar">
     {% for nav_item in config.extra.header_nav %}

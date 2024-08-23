@@ -20,5 +20,6 @@ highlight_code = true
 [extra]
 
 header_nav = [
+  { url = "/games", name_en = "Games" },
   { url = "/devlog", name_en = "Devlog" },
 ]

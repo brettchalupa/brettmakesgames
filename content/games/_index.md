@@ -5,6 +5,12 @@ description = "List of games and related projects made by Brett Chalupa"
 
 I've made a bunch of small games. Here are some of my favorites and good places to start.
 
+## SokoWorld
+
+[![SokoWorld](/sokoworld.png)](https://brettchalupa.itch.io/sokoworld)
+
+SokoWorld is a Sokoban game for web and PC that I'm currently working on.
+
 ## Destroy All Goblins
 
 [![Destroy All Goblins](/destroy-all-goblins.png)](https://brettchalupa.itch.io/destroy-all-goblins)
